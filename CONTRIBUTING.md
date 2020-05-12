@@ -102,11 +102,6 @@ développement intial (cf [AUTHORS.md](AUTHORS.md)). Il évoluera après
 la publication selon les choix pour la maintenance fait par la
 gouvernance du projet (le _core group_).
 
-# Organisation du développement
-Le modèle de développement est le suivant :
-Il faut aussi ajouter une partie pour parler du processus de publication d'une version sur Google Play et l'App Store, et de la chaine de confiance qui permet d'avoir des certitudes sur le lien entre ce code et l'application accessible sur les magasins d'applications. La question reste ouverte pour la vérification de ce qui est effectivement déployé en back-end.
-C’est un exemple, ici, il faut soit s’appuyer sur une règle connue et citée, soit donner quelques éléments ici pour prouver que la démarche open source est sérieuse
-
 # Gestion des contributions
 Les personnes qui contribueront au code devront s'engager à le céder
 au mainteneur du sous-projet auquel elles auront contribué. Il sera diffusé
