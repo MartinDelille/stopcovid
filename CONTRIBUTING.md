@@ -57,18 +57,18 @@ les sous-projets sous gitlab")
   mobile Android. Intègre les composants de gestion de clefs, gestion des
   données, mode bg, composant crypto et l’API de connexion avec le
   backend.
-* stopcovid-robertsdk-ios : code pour le protocole ROBERT sur l’App
-  mobile iOS. Intègre les composants de gestion de clefs, gestion des
+* stopcovid-robertsdk : code pour le protocole ROBERT sur l’App
+  mobile iOS/Android/Windows Phone. Intègre les composants de gestion de clefs, gestion des
   données, mode bg, composant crypto et l’API de connexion avec le
   backend.
 * stopcovid-BLEsdk-android : code pour les échanges de paquet et
   calibration des contacts à partir de BLE sur Android.
-* stopcovid-BLEsdk-ios : code pour les échanges de paquet et
-  calibration des contacts à partir de BLE sur iOS.
+* stopcovid-BLEsdk : code pour les échanges de paquet et
+  calibration des contacts à partir de BLE.
 * stopcovid-strings : labels des écrans, pour chaque langage (fr, en,
   es, pt, it, ar).
 * stopcovid-android : UX/UI, front end de l’application Android. 
-* stopcovid-ios : UX/UI, front end de l’application iOS.
+* stopcovid : UX/UI, front end de l’application utilisant le framework [Qt QML](https://doc.qt.io/qt-5/qtqml-index.html).
 
 # Gouvernance et processus de décision
 La gouvernance est structurée comme suit :
